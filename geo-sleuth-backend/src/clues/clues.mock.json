@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "region": "Latin America",
+    "country": "Mexico",
+    "clue": "Almost every house has a black, beige, or white cylindrical 'Rotoplas' water tank sitting on the flat roof.",
+    "category": "Architecture",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "region": "Latin America",
+    "country": "Brazil",
+    "clue": "The backs of the street signs are painted completely black.",
+    "category": "Infrastructure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "region": "Latin America",
+    "country": "Chile",
+    "clue": "The center lines on the road are entirely white; they do not use yellow lines to separate oncoming traffic.",
+    "category": "Road Markings",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 4,
+    "region": "Eastern Europe",
+    "country": "Romania",
+    "clue": "Concrete utility poles feature a distinct design with round holes running up the middle, and sometimes have a painted red, yellow, and blue band.",
+    "category": "Infrastructure",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "region": "Eastern Europe",
+    "country": "Kyrgyzstan",
+    "clue": "The Cyrillic alphabet includes the unique letters 'ң', 'ө', and 'ү', which you won't see in standard Russian.",
+    "category": "Language",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 6,
+    "region": "Eastern Europe",
+    "country": "Lithuania",
+    "clue": "Language uses letters with 'ogonek' hooks at the bottom (ą, ę, į, ų) rather than macrons (ā, ē, ī, ū).",
+    "category": "Language",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 7,
+    "region": "Latin America",
+    "country": "Argentina",
+    "clue": "License plates often feature a distinct black dot squarely in the middle of the alphanumeric sequence.",
+    "category": "Vehicles",
+    "difficulty": "Hard"
+  }
+]
