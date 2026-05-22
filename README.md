@@ -43,7 +43,7 @@ npm run dev
 
 Play the game: http://localhost:3000
 
-### 🔮 What's Next?
+## 🔮 What's Next?
 
 - Deployment to the actual internet.
 
@@ -51,4 +51,6 @@ Play the game: http://localhost:3000
 
 - Global leaderboards (maybe).
 
-Built by a Software Engineer avoiding massive architectures by building tiny, perfectly structured ones.
+---
+
+> Built by a Software Engineer avoiding massive architectures by building tiny, perfectly structured ones.
